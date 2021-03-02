@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Golang
 - 💬 Ask me about ...Soft Skills
 - 📫 How to reach me: ...LinkedIn(Pavan Kumar)
-- 😄 Pronouns: ...He/Him
+- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...I am Very HAPPY!!!
 -->
